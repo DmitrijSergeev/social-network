@@ -1,0 +1,22 @@
+.main{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 100px;
+    height: 300px;
+    padding: 10px;
+}
+.news{
+    padding-bottom: 10px;
+    text-decoration: none;
+}
+.profile{
+    padding-bottom: 10px;
+    text-decoration: none;
+}
+.dialogs{
+    padding-bottom: 10px;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}

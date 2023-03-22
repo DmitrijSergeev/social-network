@@ -1,10 +1,13 @@
 import React from 'react';
 import s from 'src/components/Profile/Profile.module.css'
+import {ProfileInfo} from "./ProfileInfo/ProfileInfo";
+import {MyPosts} from "./MyPosts/MyPosts";
 
 export const Profile = () => {
     return (
         <div>
-            <h3>That's my profile</h3>
+            <ProfileInfo/>
+            <MyPosts/>
         </div>
     );
 };
